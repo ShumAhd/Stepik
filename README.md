@@ -82,7 +82,7 @@ String str3 = "Four";
 boolean value1 = str1.contains(str2); // true
 boolean value1 = str1.contains(str3); // false
 ```
-7. Преобразование регистров.
+7. [Преобразование регистров](https://github.com/ShumAhd/Stepik/blob/main/src/main/java/ru/shum/String_7.java)
 Методы  toUpperCase() / toLowerCase() приводят всю строку в верхний и нижний регистр соответственно.
 ```java
 String s = "I'll be back";
