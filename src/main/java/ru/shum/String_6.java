@@ -1,7 +1,7 @@
 package ru.shum;
 import java.util.Scanner;
 
-public class Main {
+public class String_6 {
 
   /**
    * На вход подаётся строка текста, затем слово. Выведите на печать true, если слово содержится в
